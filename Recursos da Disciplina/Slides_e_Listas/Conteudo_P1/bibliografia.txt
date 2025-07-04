@@ -1,0 +1,27 @@
+O livro de algoritmos do Jeff Erickson, excelente!! https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf
+
+Introdução a algoritmos do Cormen: Está no Notion
+
+Data Structures And Algorithms Made Easy: Está no Notion
+
+Bibliografia:
+
+Livros texto
+KLEINBERG, J.; TARDOS, E. Algorithm design. Addison-Wesley, 2005.
+
+CORMEN, T. H. Algoritmos: teoria e prática. 3ª ed., Rio de Janeiro: Elsevier-Campus, 2012.
+
+BALAMURUGAN, S. Nature-inspired Algorithms Applications. 2021. Artificial Intelligence and Soft Computing for Industrial Transformation. Web.
+
+Livros complementares
+HOROWITZ, E.; SAHNI, S.; RAJASEKARAN, S. Computer algorithms. Silicon Press, 2008.
+
+LEVITIN, A.; LEVITIN, M. Algorithmic puzzles. Oxford University Press, 2011.
+
+McCORMICK, J. Nine algorithms that changed the future: The ingenious ideas that drive today´s computers. Princeton University Press, 2013.
+
+MORET, B.; SHAPIRO, H.: Algorithms from P to NP: Design and Efficiency. 1ª ed. Addison-Wesley, 1991.
+
+DASGUPTA, S.; PAPADIMITRIOU, C.; VAZIRANI, U. Algorithms. McGraw-Hill, 2006.
+
+GUSFIELD, D.: Algorithms on strings, trees, and sequences: computer science and computational biology. Cambridge University Press, 1997.
